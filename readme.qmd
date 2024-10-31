@@ -7,4 +7,8 @@ huidige_tijd <- Sys.time() |>
 ```
 
 
-Hallo. Dit bestand is gerenderd op `{r} huidige_tijd`.
+Hallo allemaal,
+
+Dit bestand is gerenderd op `{r} huidige_tijd`.
+
+Groeten uit Neede!
