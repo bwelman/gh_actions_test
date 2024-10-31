@@ -1,0 +1,10 @@
+# GitHub Actions Test
+
+```{r}
+#| echo: false
+huidige_tijd <- Sys.time() |>
+  format('%d/%m/%Y %H:%M')
+```
+
+
+Hallo. Dit bestand is gerenderd op `{r} huidige_tijd`.
